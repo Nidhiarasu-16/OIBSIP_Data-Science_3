@@ -33,10 +33,10 @@ Tools and Technology :
 1. Programming Language: Python
 2. Development Environment: Jupyter Notebook / VS Code
 3. Libraries Used:
-       - NumPy – numerical computations
-       - Pandas – data manipulation and analysis
-       - Matplotlib & Seaborn – data visualization
-       - Scikit-learn – preprocessing, model building, and evaluation
+    - NumPy – numerical computations
+    - Pandas – data manipulation and analysis
+    - Matplotlib & Seaborn – data visualization
+    - Scikit-learn – preprocessing, model building, and evaluation
 
 Methodology :
 1. Data Understanding:
